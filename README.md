@@ -3,9 +3,9 @@
 ✍ Blogging at www.tanin.me
 
 📱 Building apps
-  - [Transcrybr](www.transcrybr.com) - An dictation app on iOS
-  - [Curry](https://apps.apple.com/gb/app/curry-currency-conversion/id1633144849) - An iOS currency conversion app on iOS
-  - [Habitr](https://play.google.com/store/apps/details?id=com.landtanin.habittracking&hl=en_GB&pli=1) - An Habit Tracker app on Android
+  - [Transcrybr](www.transcrybr.com) - A dictation app on iOS
+  - [Curry](https://apps.apple.com/gb/app/curry-currency-conversion/id1633144849) - A currency conversion app on iOS
+  - [Habitr](https://play.google.com/store/apps/details?id=com.landtanin.habittracking&hl=en_GB&pli=1) - A habit tracking app on Android
 
 <!--
 **landtanin/landtanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
